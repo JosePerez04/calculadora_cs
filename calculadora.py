@@ -1,2 +1,2 @@
-ef estado(nota):
+def estado(nota):
     return "Aprobado"
